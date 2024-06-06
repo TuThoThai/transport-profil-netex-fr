@@ -78,7 +78,7 @@ Enfin, avant d’entamer la rédaction d’un profil dédié, il est préférabl
 - Soutenir le cadrage du profil dédié et sa mise en cohérence avec le profil national.
 
 
-# Processus technique de rédactiion, validation et publication
+# Processus technique de rédaction, validation et publication
 Ce processus technique comprend trois phases principales pouvant être réalisées en parallèle :
 - La rédaction, puis modification ou révision continue de la version de travail avec des propositions de modification libres validées par des personnes identifiées au sein des groupes de travail concernés,
 - La définition d’une version « officielle » validée par l’ensemble des membres du groupe de travail concerné, avalisé par la CN03, et qui est dotée d’un numéro de version,
@@ -169,6 +169,7 @@ Les rôles des différentes parties prenantes à la publication des documents te
 |Rédaction de contenu|Équipe de travail dédiée au sein d’un groupe de travail et/ou organisation mandatée par ce dernier (ex. équipe « nouveaux modes » au sein du GT7 pour le sous-profil NeTEx)|
 |Garant du contenu|Tous les membres du groupe de travail (ex. GT7 pour les profils SIRI)|
 |Garant de la gestion des versions|Membres mandatés au sein des groupes de travail, généralement la personne en charge de l’animation et de la rédaction du contenu (ex. Tu-Tho Thai et Thierry Hénault pour le sous-profil « nouveaux modes » de NeTEx)|
+|Responsable des répertoires contenant les documents techniques|Rôle temporairement porté par l’équipe qui a la gestion du site, aujourd’hui l’équipe du PAN. À ce jour, il n’y a pas de confirmation de l’organisation ou du groupe qui tiendra ce rôle final.|
 |Responsable de la publication|Équipe qui a la gestion du site, aujourd’hui l’équipe du PAN|
 |Responsable de la politique d'ouverture de données|DGITM/SDMINT/MINT3|
 
