@@ -1,8 +1,7 @@
 ---
 title: "Les profils français des normes européennes : processus technique de rédaction, validation et publication"
-date: 2024-06-06T10:00:00+02:00
+date: 2024-06-06T14:25:00
 draft: true
-autonumbering: true
 ---
 
 # Introduction
