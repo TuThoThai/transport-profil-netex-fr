@@ -171,6 +171,7 @@ Les rôles des différentes parties prenantes à la publication des documents te
 |Rédaction de contenu|Équipe de travail dédiée au sein d’un groupe de travail et/ou organisation mandatée par ce dernier (ex. équipe « nouveaux modes » au sein du GT7 pour le sous-profil NeTEx)|
 |Garant du contenu|Tous les membres du groupe de travail (ex. GT7 pour les profils SIRI)|
 |Garant de la gestion des versions|Membres mandatés au sein des groupes de travail, généralement la personne en charge de l’animation et de la rédaction du contenu (ex. Tu-Tho Thai et Thierry Hénault pour le sous-profil « nouveaux modes » de NeTEx)|
+|Aval formel du contenu avant demande de publication|CN03 pour tous les profils et DGITM / MINT pour les profils de NeTEx et SIRI mentionnés dans les arrêtés|
 |Responsable des répertoires contenant les documents techniques|Rôle temporairement porté par l’équipe qui a la gestion du site, aujourd’hui l’équipe du PAN. À ce jour, il n’y a pas de confirmation de l’organisation ou du groupe qui tiendra ce rôle final.|
 |Responsable de la publication|Équipe qui a la gestion du site, aujourd’hui l’équipe du PAN|
 |Responsable de la politique d'ouverture de données|DGITM/SDMINT/MINT3|
