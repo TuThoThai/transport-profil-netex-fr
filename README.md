@@ -17,4 +17,5 @@ L'équipe du Point d'Accès National aux données de transport (transport.data.g
 
 # Contributions
 
-Toute personne souhaitant contribuer aux travaux peut se rapprocher de l'animatrice du GT7 (@TuThoThai).
+Toute personne peut contribuer aux travaux via ce repertoire en ouvrant un ticket (_issue_) ou faire une demande de changement (_pull request_).
+Pour participer groupe de normalisation dédié au profil France de NeTEx, se rapprocher de l'animatrice du GT7 (@TuThoThai).
