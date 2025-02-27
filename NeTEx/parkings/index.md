@@ -4,6 +4,7 @@ date: 2024-11-21T00:00:00+00:02
 draft: false
 tags: ["NeTEx"]
 autonumbering: true
+weight: 3
 ---
 
 **Avant-propos**
@@ -1385,7 +1386,7 @@ AREA.</td>
 </tr>
 <tr class="odd">
 <td>« cntd »</td>
-<td><em><strong>ParkingPropertiesproperties</strong></em></td>
+<td><em><strong>ParkingProperties</strong></em></td>
 <td><em>ParkingProperties</em></td>
 <td>0:1</td>
 <td>Propriétés détaillée du PARKING AREA.</td>

@@ -4,6 +4,7 @@ date: 2024-11-21T00:00:00+00:02
 draft: false
 tags: ["NeTEx"]
 autonumbering: true
+weight: 5
 ---
 
 **Avant-propos**
@@ -184,7 +185,7 @@ NeTEx sera nécessaire à sa bonne compréhension.
 
 # Domaine d'application
 
-Le présent document est le profil de la CEN/TS  6614 (NeTEx) pour
+Le présent document est le profil de la CEN/TS 16614 (NeTEx) pour
 l'échange de données de description des horaires en France et permet de
 décrire les horaires de transports publics et la manière dont ils
 pourront être structurés pour des échanges entre systèmes d'information
